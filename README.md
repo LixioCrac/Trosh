@@ -9,11 +9,11 @@
 
 ## Interfaces
 
-![Capture d’écran 2022-03-12 213803](https://user-images.githubusercontent.com/101467355/158034206-4b7301fe-d082-4070-ace7-f78d3e8b9f54.png)
+![Capture d’écran 2022-03-12 190014](https://user-images.githubusercontent.com/101467355/158029334-fd80fcb3-7454-45b5-82c5-7f5bf401542c.png)
 
 ## Result
 
-![Capture d’écran 2022-03-12 214033](https://user-images.githubusercontent.com/101467355/158034276-c83325af-50ac-4e61-ab02-5588025d260d.png)
+![Capture d’écran 2022-03-12 190315](https://user-images.githubusercontent.com/101467355/158029406-c1c62d8f-9df1-40d9-b8e8-89b6e6e6a733.png)
 
 ## Tutorial
 
