@@ -1,2 +1,2 @@
 # Trosh
-Trosh is tracker fortnite
+🔥 Trosh is tracker fortnite 🔥
