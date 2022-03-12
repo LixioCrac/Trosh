@@ -18,8 +18,8 @@
 ## Tutorial
 
 *1*. Start the program with *launch.bat*.  
-*2*. Enter the pseudo fortnite
-*3*. Enjoy for the programme
+*2*. Enter the pseudo fortnite.  
+*3*. Enjoy for the programme.  
 
 ## End
 
